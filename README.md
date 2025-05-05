@@ -51,7 +51,7 @@ Desarrollo de interfaces gráficas en Java.
 Estructuración de proyectos de software reales.
 
 👤 Autor
-[Tu Nombre Aquí]
+Juan Camilo Patiño Henao
 
 Institución Universitaria Digital de Antioquia
 
